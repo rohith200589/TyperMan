@@ -7,14 +7,14 @@
   <p align="center">
     A free typing test with realistic mechanical keyboard sounds
     <br />
-    <a href="https://keythm.rohith200589.in/"><strong>Try it live »</strong></a>
+    <a href="https://typer-man.vercel.app/"><strong>Try it live »</strong></a>
     <br />
     <br />
-    <a href="https://keythm.rohith200589.in/">Website</a>
+    <a href="https://typer-man.vercel.app/">Website</a>
     &middot;
-    <a href="https://github.com/rohith200589/keythm/issues">Issues</a>
+    <a href="https://github.com/rohith200589/TyperMan/issues">Issues</a>
     &middot;
-    <a href="https://github.com/rohith200589/keythm/issues/new?labels=enhancement&template=FEATURE_REQUEST_TEMPLATE.md">Request Feature</a>
+    <a href="https://github.com/rohith200589/TyperMan/issues/new?labels=enhancement&template=FEATURE_REQUEST_TEMPLATE.md">Request Feature</a>
   </p>
 </p>
 
@@ -22,22 +22,22 @@
   <a href="https://github.com/rohith200589">
     <img src="https://custom-icon-badges.demolab.com/badge/made%20by%20-rohith200589-556bf2?logo=github&logoColor=white&labelColor=101827" alt="Made by Rohith Saravanan">
   </a>
-  <a href="https://github.com/rohith200589/keythm/stargazers">
+  <a href="https://github.com/rohith200589/TyperMan/stargazers">
     <img src="https://img.shields.io/github/stars/rohith200589/keythm?style=flat&logo=github" alt="GitHub Stars">
   </a>
-  <a href="https://github.com/rohith200589/keythm/forks">
+  <a href="https://github.com/rohith200589/TyperMan/forks">
     <img src="https://img.shields.io/github/forks/rohith200589/keythm?style=flat" alt="GitHub Forks">
   </a>
-  <a href="https://github.com/rohith200589/keythm/blob/main/LICENSE">
+  <a href="https://github.com/rohith200589/TyperMan/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/rohith200589/keythm?color=dddddd&labelColor=000000" alt="License">
   </a>
   <a href="https://www.typescriptlang.org/">
     <img src="https://img.shields.io/github/languages/top/rohith200589/keythm?&logoColor=%23007ACC&label=TypeScript" alt="Top Language">
   </a>
-  <a href="https://github.com/rohith200589/keythm/commits/main">
+  <a href="https://github.com/rohith200589/TyperMan/commits/main">
     <img src="https://img.shields.io/github/commit-activity/t/rohith200589/keythm?style=flat&logo=github" alt="Commits">
   </a>
-  <a href="https://github.com/rohith200589/keythm/pulls">
+  <a href="https://github.com/rohith200589/TyperMan/pulls">
     <img src="https://img.shields.io/github/issues-pr/rohith200589/keythm?color=brightgreen&label=PRs" alt="Pull Requests">
   </a>
   <img src="https://img.shields.io/github/deployments/rohith200589/keythm/Production?logo=vercel&label=Website" alt="Deployment Status">
@@ -133,7 +133,7 @@ Settings persist in `localStorage`.
 
 ## 🔧 Contributing
 
-[![contributors](https://contrib.rocks/image?repo=rohith200589/keythm)](https://github.com/rohith200589/keythm/graphs/contributors)
+[![contributors](https://contrib.rocks/image?repo=rohith200589/keythm)](https://github.com/rohith200589/TyperMan/graphs/contributors)
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
