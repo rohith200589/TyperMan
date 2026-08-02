@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
-  <title>Keythm</title>
+  <title>TyperMan</title>
   <style>
     /* Light: matches :root --background / --primary (teal) */
     .bg { fill: #ffffff; }

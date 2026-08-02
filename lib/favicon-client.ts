@@ -90,7 +90,7 @@ function darken(rgb: string): string {
   return `rgb(${r},${g},${b})`;
 }
 
-export function syncKeythmFavicon() {
+export function syncTyperManFavicon() {
   if (typeof document === "undefined") {
     return;
   }
@@ -119,7 +119,7 @@ export function syncKeythmFavicon() {
 
   if (!touched) {
     const link = document.createElement("link");
-    link.id = "keythm-favicon";
+    link.id = "TyperMan-favicon";
     link.rel = "shortcut icon";
     link.type = "image/svg+xml";
     link.href = href;

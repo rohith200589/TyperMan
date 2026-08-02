@@ -22,8 +22,8 @@ const fontMono = Geist_Mono({
 export const metadata: Metadata = {
   title: {
     default:
-      "Keythm — Free Typing Test with Mechanical Keyboard Sounds | WPM & Accuracy",
-    template: "%s | Keythm",
+      "TyperMan — Free Typing Test with Mechanical Keyboard Sounds | WPM & Accuracy",
+    template: "%s | TyperMan",
   },
   description: siteConfig.description,
   keywords: [
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
     "keyboard sound test",
     "typing sound",
     "monkeytype alternative",
-    "Keythm",
+    "TyperMan",
   ],
   authors: [{ name: siteConfig.creator, url: siteConfig.creatorUrl }],
   creator: siteConfig.creator,
@@ -57,7 +57,7 @@ export const metadata: Metadata = {
     locale: "en_US",
     url: siteConfig.url,
     title:
-      "Keythm — Free Typing Test with Mechanical Keyboard Sounds | WPM & Accuracy",
+      "TyperMan — Free Typing Test with Mechanical Keyboard Sounds | WPM & Accuracy",
     description: siteConfig.description,
     siteName: siteConfig.name,
     images: [
@@ -65,13 +65,13 @@ export const metadata: Metadata = {
         url: "/og.jpeg",
         width: 1500,
         height: 1016,
-        alt: "Keythm — typing test with mechanical keyboard sounds, on-screen keyboard, and real-time WPM tracking",
+        alt: "TyperMan — typing test with mechanical keyboard sounds, on-screen keyboard, and real-time WPM tracking",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Keythm — Typing Test with Mechanical Keyboard Sounds",
+    title: "TyperMan — Typing Test with Mechanical Keyboard Sounds",
     description:
       "A satisfying typing test with realistic mechanical keyboard sounds. Track your WPM and accuracy in real-time.",
     images: ["/og.jpeg"],

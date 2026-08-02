@@ -1,5 +1,5 @@
 /** Inline keycap-grid icon that reads --primary, --kb-dark, --kb-light live. */
-export function KeythmLogo({
+export function TyperManLogo({
   className,
   size = 22,
 }: {

@@ -1,9 +1,9 @@
 <a name="readme-top"></a>
 
-<img width="1440" alt="Keythm — typing test with mechanical keyboard sounds" src=".github/images/img_main.png" />
+<img width="1440" alt="TyperMan — typing test with mechanical keyboard sounds" src=".github/images/img_main.png" />
 
 <p align="center">
-  <h3 align="center">Keythm</h3>
+  <h3 align="center">TyperMan</h3>
   <p align="center">
     A free typing test with realistic mechanical keyboard sounds
     <br />
@@ -23,24 +23,24 @@
     <img src="https://custom-icon-badges.demolab.com/badge/made%20by%20-rohith200589-556bf2?logo=github&logoColor=white&labelColor=101827" alt="Made by Rohith Saravanan">
   </a>
   <a href="https://github.com/rohith200589/TyperMan/stargazers">
-    <img src="https://img.shields.io/github/stars/rohith200589/keythm?style=flat&logo=github" alt="GitHub Stars">
+    <img src="https://img.shields.io/github/stars/rohith200589/TyperMan?style=flat&logo=github" alt="GitHub Stars">
   </a>
   <a href="https://github.com/rohith200589/TyperMan/forks">
-    <img src="https://img.shields.io/github/forks/rohith200589/keythm?style=flat" alt="GitHub Forks">
+    <img src="https://img.shields.io/github/forks/rohith200589/TyperMan?style=flat" alt="GitHub Forks">
   </a>
   <a href="https://github.com/rohith200589/TyperMan/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/rohith200589/keythm?color=dddddd&labelColor=000000" alt="License">
+    <img src="https://img.shields.io/github/license/rohith200589/TyperMan?color=dddddd&labelColor=000000" alt="License">
   </a>
   <a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/github/languages/top/rohith200589/keythm?&logoColor=%23007ACC&label=TypeScript" alt="Top Language">
+    <img src="https://img.shields.io/github/languages/top/rohith200589/TyperMan?&logoColor=%23007ACC&label=TypeScript" alt="Top Language">
   </a>
   <a href="https://github.com/rohith200589/TyperMan/commits/main">
-    <img src="https://img.shields.io/github/commit-activity/t/rohith200589/keythm?style=flat&logo=github" alt="Commits">
+    <img src="https://img.shields.io/github/commit-activity/t/rohith200589/TyperMan?style=flat&logo=github" alt="Commits">
   </a>
   <a href="https://github.com/rohith200589/TyperMan/pulls">
-    <img src="https://img.shields.io/github/issues-pr/rohith200589/keythm?color=brightgreen&label=PRs" alt="Pull Requests">
+    <img src="https://img.shields.io/github/issues-pr/rohith200589/TyperMan?color=brightgreen&label=PRs" alt="Pull Requests">
   </a>
-  <img src="https://img.shields.io/github/deployments/rohith200589/keythm/Production?logo=vercel&label=Website" alt="Deployment Status">
+  <img src="https://img.shields.io/github/deployments/rohith200589/TyperMan/Production?logo=vercel&label=Website" alt="Deployment Status">
 </p>
 
 <details>
@@ -62,7 +62,7 @@
 
 ## About
 
-**Keythm** is a free online typing test with **realistic mechanical keyboard sounds** and real-time WPM tracking. Practice with timed tests, word counts, quotes, or zen mode — featuring an interactive on-screen keyboard, satisfying key sounds, and detailed accuracy stats.
+**TyperMan** is a free online typing test with **realistic mechanical keyboard sounds** and real-time WPM tracking. Practice with timed tests, word counts, quotes, or zen mode — featuring an interactive on-screen keyboard, satisfying key sounds, and detailed accuracy stats.
 
 ## ✨ Features
 
@@ -81,7 +81,7 @@ Settings persist in `localStorage`.
 
 ## 🛠 Tech Stack
 
-<details><summary><b>Keythm</b> is built using the following technologies:</summary>
+<details><summary><b>TyperMan</b> is built using the following technologies:</summary>
 
 - [TypeScript](https://www.typescriptlang.org/): Typed superset of JavaScript.
 - [Next.js](https://nextjs.org/) 16: React framework with App Router.
@@ -106,8 +106,8 @@ Settings persist in `localStorage`.
 2. Fork this repository and clone **your fork**:
 
    ```bash
-   git clone https://github.com/<your-username>/keythm.git
-   cd keythm
+   git clone https://github.com/<your-username>/TyperMan.git
+   cd TyperMan
    ```
 
 3. Install dependencies and start the dev server:
@@ -133,7 +133,7 @@ Settings persist in `localStorage`.
 
 ## 🔧 Contributing
 
-[![contributors](https://contrib.rocks/image?repo=rohith200589/keythm)](https://github.com/rohith200589/TyperMan/graphs/contributors)
+[![contributors](https://contrib.rocks/image?repo=rohith200589/TyperMan)](https://github.com/rohith200589/TyperMan/graphs/contributors)
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -148,15 +148,15 @@ Contributions are what make the open source community such an amazing place to l
 
 [![Follow Me](https://img.shields.io/github/followers/rohith200589?style=social&label=Github&maxAge=2592000)](https://github.com/rohith200589 "Follow Me")
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rohith200589-blue?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/irohith200589)
-[![Tweet about this project](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Firohith200589)](https://twitter.com/intent/tweet?text=Check+out+Keythm+-+a+typing+test+with+mechanical+keyboard+sounds:&url=https%3A%2F%2Fgithub.com%2Frohith200589%2Fkeythm "Tweet about this project")
+[![Tweet about this project](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Firohith200589)](https://twitter.com/intent/tweet?text=Check+out+TyperMan+-+a+typing+test+with+mechanical+keyboard+sounds:&url=https%3A%2F%2Fgithub.com%2Frohith200589%2FTyperMan "Tweet about this project")
 
 ## 📃 Deployment
 
 | Method                     | Description                              | Action                                                                                                                                                         |
 | :------------------------- | :--------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **🔧 Manual Build**        | Create an optimized production build.    | `bun run build`                                                                                                                                                |
-| **▲ Vercel (Recommended)** | Deploy instantly on the Vercel platform. | [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frohith200589%2Fkeythm)               |
-| **🌐 Netlify**             | Deploy easily on Netlify.                | [![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/rohith200589/keythm) |
+| **▲ Vercel (Recommended)** | Deploy instantly on the Vercel platform. | [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frohith200589%2FTyperMan)               |
+| **🌐 Netlify**             | Deploy easily on Netlify.                | [![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/rohith200589/TyperMan) |
 
 For more details, check the [Next.js deployment docs](https://nextjs.org/docs/deployment).
 
@@ -166,11 +166,11 @@ If you found this project useful, give it a star to help more people discover it
 
 ## 🌟 Star History
 
-<a href="https://star-history.com/#rohith200589/keythm&Timeline">
+<a href="https://star-history.com/#rohith200589/TyperMan&Timeline">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=rohith200589/keythm&type=Timeline&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=rohith200589/keythm&type=Timeline" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=rohith200589/keythm&type=Timeline" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=rohith200589/TyperMan&type=Timeline&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=rohith200589/TyperMan&type=Timeline" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=rohith200589/TyperMan&type=Timeline" />
 </picture>
 </a>
 

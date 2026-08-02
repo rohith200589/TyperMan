@@ -8,7 +8,7 @@ import {
   useState,
 } from "react";
 import type { KeyboardThemeName } from "@/components/ui/keyboard";
-import { syncKeythmFavicon } from "@/lib/favicon-client";
+import { syncTyperManFavicon } from "@/lib/favicon-client";
 import { FONT_OPTIONS, type TypingFont } from "@/lib/font-options";
 import { THEME_OPTIONS } from "@/lib/theme-options";
 
@@ -55,7 +55,7 @@ function loadGoogleFont(family: string) {
 
 function applyAccentToDom(accent: KeyboardThemeName) {
   document.documentElement.setAttribute("data-accent", accent);
-  queueMicrotask(() => syncKeythmFavicon());
+  queueMicrotask(() => syncTyperManFavicon());
 }
 
 function applyFontToDom(fontId: TypingFont) {

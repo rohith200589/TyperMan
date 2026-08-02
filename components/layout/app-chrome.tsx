@@ -19,7 +19,7 @@ import {
   useRef,
   useState,
 } from "react";
-import { KeythmLogo } from "@/components/layout/keythm-logo";
+import { TyperManLogo } from "@/components/layout/TyperMan-logo";
 import { SettingsPanel } from "@/components/settings/settings-panel";
 import { useSettings } from "@/components/settings/settings-provider";
 import { DynamicFavicon } from "@/components/theme/dynamic-favicon";
@@ -151,8 +151,8 @@ function SiteHeader() {
           onClick={handleLogoClick}
           type="button"
         >
-          keythm
-          <KeythmLogo className="mb-1" size={17} />
+          TyperMan
+          <TyperManLogo className="mb-1" size={17} />
         </button>
 
         {/* Center — Visit counter (loads async, hidden until ready) */}
@@ -210,7 +210,7 @@ function SiteHeader() {
           {/* GitHub — primary pill */}
           <motion.a
             className="flex items-center gap-2 rounded-full bg-foreground px-4 py-1.5 font-medium text-[13px] text-background"
-            href="https://github.com/rohith200589/keythm"
+            href="https://github.com/rohith200589/TyperMan"
             rel="noopener noreferrer"
             target="_blank"
             whileTap={{ scale: 0.96 }}

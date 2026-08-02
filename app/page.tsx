@@ -87,7 +87,7 @@ export default function Page() {
             . The source code is available on{" "}
             <a
               className="text-muted-foreground/60 underline-offset-2 hover:text-foreground hover:underline"
-              href="https://github.com/rohith200589/keythm"
+              href="https://github.com/rohith200589/TyperMan"
               rel="noopener noreferrer"
               target="_blank"
             >
