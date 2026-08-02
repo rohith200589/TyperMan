@@ -123,7 +123,7 @@
   body {
     background-color: color-mix(
       in oklch,
-      var(--kb-light) 20%,
+      var(--kb-light) 4%,
       var(--background)
     );
     @apply text-foreground;
@@ -152,7 +152,7 @@
   --primary: var(--color-orange-500, #f97316);
   --ring: var(--color-orange-500, #f97316);
   --kb-dark: oklch(0.55 0.06 45);
-  --kb-light: oklch(0.85 0.08 45);
+  --kb-light: oklch(0.97 0.03 45);
   --muted: color-mix(in oklch, var(--kb-dark) 12%, oklch(0.967 0.001 286));
 }
 :root.dark[data-accent="classic"] {
@@ -168,7 +168,7 @@
   --primary: var(--color-teal-500, #14b8a6);
   --ring: var(--color-teal-500, #14b8a6);
   --kb-dark: oklch(0.48 0.06 190);
-  --kb-light: oklch(0.95 0.02 175);
+  --kb-light: oklch(0.97 0.01 175);
   --muted: color-mix(in oklch, var(--kb-dark) 8%, oklch(0.967 0.001 286));
 }
 :root.dark[data-accent="mint"] {
@@ -216,7 +216,7 @@
   --primary: var(--color-amber-500, #f59e0b);
   --ring: var(--color-amber-500, #f59e0b);
   --kb-dark: oklch(0.45 0.1 20);
-  --kb-light: oklch(0.82 0.1 20);
+  --kb-light: oklch(0.96 0.03 20);
   --muted: color-mix(in oklch, var(--kb-dark) 12%, oklch(0.967 0.001 286));
 }
 :root.dark[data-accent="sand"] {
@@ -232,7 +232,7 @@
   --primary: var(--color-rose-500, #f43f5e);
   --ring: var(--color-rose-500, #f43f5e);
   --kb-dark: oklch(0.65 0.1 355);
-  --kb-light: oklch(0.85 0.08 345);
+  --kb-light: oklch(0.96 0.03 345);
   --muted: color-mix(in oklch, var(--kb-dark) 12%, oklch(0.967 0.001 286));
 }
 :root.dark[data-accent="scarlet"] {
